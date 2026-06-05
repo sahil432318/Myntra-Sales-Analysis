@@ -126,6 +126,4 @@ This dashboard enables:
 - Regional sales optimization
 - Enhanced customer understanding
 
----
 
-## 📁 Repository Structure
